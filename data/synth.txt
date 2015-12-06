@@ -1,0 +1,5 @@
+Diatonic Synthesizer
+A synthesizer is a device that creates sounds by generating signals of varying waveform and frequency.
+You can trigger signals by pressing your keyboard keys.  Each key corrresponds to a note in the selected major scale.  This is what makes the synthesizer diatonic.
+1. Octaves -- There are 7 unique notes in a major scale. The 8th note of the scale is an octave above, or twice the frequency of, the 1st note and has the same letter name.  This synthesizer spans 4 full octaves, plus a partial octave.  You can set the starting octave by clicking the Low, Med, or High buttons.
+2. 

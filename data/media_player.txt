@@ -1,0 +1,9 @@
+Media Player
+This is a simple tool that allows you to play songs (WAV or MP3 audio files) located on your computer.  Load visualizers to see how your songs are visualized!
+1.  Song Title
+2.  Artist Name and Album Title
+3.  Play/Pause Button - Click or toggle with SPACEBAR
+4.  Progress Bar - Current location in the track. Click to skip to the desired track time
+5.  Load Track Button - Click to bring up a load file menu. Browse to the desired song and select
+6.  Stop Button - Stop playing and unload the track
+7.  Loop Track Button - Click to toggle track looping. The button will appear red when the track is looping
